@@ -648,6 +648,18 @@ cp env.example .env
 - Open source contributors for various packages
 - African healthcare workers for inspiration
 
+## Installation
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+
+Example:
+
+git clone https://github.com/username/project.git
+cd project
+npm install
+
 ---
 
 **OpenCare-Africa** - Empowering healthcare in Africa through technology.
